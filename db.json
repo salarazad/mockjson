@@ -1,5 +1,65 @@
-{
-    "order_date": "02-02-2022",
+[
+  {
+    "order_date": "03-01-2022",
+    "item_price": "2000",
     "company": "isystems",
-    "order_status": "inprogress",
-}
+    "order_number": "Sarah.Abs@gmail.com",
+    "order_status": "pending",
+    "item_name": "water_17L_container",
+    "item_quantity": "12"
+  },
+  {
+    "order_date": "03-01-2022",
+    "item_price": "2250",
+    "company": "maya",
+    "order_number": "Sarah.Abs@gmail.com",
+    "order_status": "accepted",
+    "item_name": "water_200cc_glass",
+    "item_quantity": "25"
+  },
+  {
+    "order_date": "03-01-2022",
+    "item_price": "1000",
+    "company": "barly",
+    "order_number": "Sarah.Abs@gmail.com",
+    "order_status": "rejected",
+    "item_name": "waterBottle_0.5L_box",
+    "item_quantity": "17"
+  },
+  {
+    "order_date": "03-01-2022",
+    "item_price": "1750",
+    "company": "rotana",
+    "order_number": "Sarah.Abs@gmail.com",
+    "order_status": "accepted",
+    "item_name": "waterBottle_0.33L_box",
+    "item_quantity": "31"
+  },
+  {
+    "order_date": "03-01-2022",
+    "item_price": "1250",
+    "company": "sanis",
+    "order_number": "Sarah.Abs@gmail.com",
+    "order_status": "rejected",
+    "item_name": "waterBottle_1.5L_box",
+    "item_quantity": "7"
+  },
+  {
+    "order_date": "03-01-2022",
+    "item_price": "2000",
+    "company": "gym",
+    "order_number": "Sarah.Abs@gmail.com",
+    "order_status": "pending",
+    "item_name": "water_17L_container",
+    "item_quantity": "25"
+  },
+  {
+    "order_date": "03-01-2022",
+    "item_price": "2250",
+    "company": "cafe",
+    "order_number": "Sarah.Abs@gmail.com",
+    "order_status": "pending",
+    "item_name": "water_200cc_glass",
+    "item_quantity": "37"
+  }
+]
